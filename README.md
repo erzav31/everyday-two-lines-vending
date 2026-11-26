@@ -9,9 +9,10 @@ A [make.fun](https://make.fun/bounty/u-suga-everyday-things-two-lines-longer-run
 
 The program writes one two-line text to `/output/entry.txt`. Line 1 explains a vending
 machine to a 10-year-old in a single vivid sentence built on one analogy — a robot
-shopkeeper that never sleeps. Line 2 says honestly what that analogy maps (paying, and the
-snack arriving all by itself) and what it leaves out (the person who fills the machine up
-and fixes it when it jams, and that a real shopkeeper can smile and say thank you).
+shopkeeper that never sleeps. Line 2 says honestly what that analogy maps (the coins
+going in, the snack coming out on its own) and what it leaves out (the person who fills
+the machine up and fixes it when it jams, and that a real shopkeeper can smile, help you
+choose, and say thank you).
 
 ## Run
 
