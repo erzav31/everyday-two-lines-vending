@@ -1,0 +1,1 @@
+{"description":"Two-line explanation of a vending machine for a 10-year-old, written for the make.fun bounty Everyday Things, Two Lines, Longer Run.","license":"MIT","name":"everyday-two-lines-vending","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}

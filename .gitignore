@@ -1,0 +1,7 @@
+node_modules/
+.DS_Store
+kit/
+kit.tgz
+kit.zip
+transcripts.tar.gz
+REPORT.md
